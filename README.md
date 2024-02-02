@@ -1,4 +1,4 @@
-# Taxol-Drug-Resistance
+# Taxol Drug Resistance in Breast Cancer
 
 ## Objective
 
